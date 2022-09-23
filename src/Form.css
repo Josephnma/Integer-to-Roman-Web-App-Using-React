@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10% 0;
+
+}
+p{
+    background-color: white;
+    width: 40%;
+    margin: 1rem 30%;
+    height: 2rem;
+}
+
+input{
+    margin: 1rem 0.2rem;
+    width: 50%;
+    border-radius: 5px;
+    height: 2rem;
+}
+button{
+    border-radius: 12px;
+    height: 2rem;
+    margin: 5px;
+
+}
+
+.form{
+    /*display: flex;*/
+    background-color: purple;
+    width: 50%;
+    border-radius: 5px;
+
+}
+
